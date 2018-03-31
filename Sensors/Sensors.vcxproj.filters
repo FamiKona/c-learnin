@@ -27,6 +27,9 @@
     <ClCompile Include="filter.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="binary_tree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mock_temp_chip.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="binary_tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

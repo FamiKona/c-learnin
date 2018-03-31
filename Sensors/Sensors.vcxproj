@@ -19,12 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="binary_tree.c" />
     <ClCompile Include="filter.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="mock_temp_chip.c" />
     <ClCompile Include="sensor.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="binary_tree.h" />
     <ClInclude Include="filter.h" />
     <ClInclude Include="mock_temp_chip.h" />
     <ClInclude Include="sensor.h" />
